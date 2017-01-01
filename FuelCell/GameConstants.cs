@@ -43,7 +43,7 @@ namespace FuelCell
         public const int MinDistance = 10;
         public const int MaxDistance = MaxRange - 8; //210;//110; //90
 
-        public const float BulletSpeed = 1.75f; //.05f; //2.0f; //3.0f; //2.0
+        public const float BulletSpeed = .05f; //1.75f; //.05f; //2.0f; //3.0f; //2.0
         public const float BulletStartOffset = 4.0f;  //4.0f was 3.5f
         public const float BulletHeight = 0.65f; //0.8
         public const bool ShowBulletTrack = true;
